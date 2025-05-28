@@ -17,7 +17,7 @@ Outside of work, I'm also passionate about home automation, especially with Home
 - Building resilient distributed systems
 - Advancements in AI and Machine Learning
 
-### 📫 Let's Connect
+### 🔗 Let's Connect
 
 - 🌐 [jeffrysteegmans.be](https://www.jeffrysteegmans.be)
 - 🐦 [Twitter / X](https://twitter.com/JeffrySteegmans)
