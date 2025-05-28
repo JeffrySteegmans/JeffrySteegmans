@@ -1,9 +1,24 @@
-👋 Hi, I'm Jeffry Steegmans
----
-A Coding Architect at Xebia, specializing in .NET technologies, clean architecture, and enhancing developer experience.
+# 👋 Hi, I'm Jeffry Steegmans
 
-🧰 Focused on building robust, maintainable software solutions.
+### 🚀 Coding architect @Xebia 
 
-🌍 Based in Belgium.
+I'm a coding architect and developer from Belgium, passionate about building scalable, cloud-native solutions. With a strong background in .NET and Azure, I specialize in designing and implementing robust microservices architectures and DevOps pipelines.
 
-Feel free to connect or reach out!
+### 🛠️ Tech Stack & Interests
+- **Languages & Frameworks:** C#, .NET, ASP.NET Core, Blazor
+- **Cloud & DevOps:** Azure, Docker, GitHub Actions
+- **Architecture:** Microservices, Event-Driven Systems, Domain-Driven Design
+- **Tools:** Git Extensions, Visual Studio, VS Code, Rider
+
+### 🌱 Currently Exploring
+- Building resilient distributed systems
+- Advancements in AI and Machine Learning
+
+### 📫 Let's Connect
+
+- 🌐 [jeffrysteegmans.be](https://www.jeffrysteegmans.be)
+- 🐦 [Twitter / X](https://twitter.com/JeffrySteegmans)
+- 💼 [LinkedIn](https://www.linkedin.com/in/jeffrysteegmans)
+- 🌌 [Bluesky](https://bsky.app/profile/jeffrysteegmans.bsky.social)
+
+Feel free to check out my repositories and reach out if you'd like to collaborate or discuss technology!
