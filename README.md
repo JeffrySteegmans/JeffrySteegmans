@@ -1,21 +1,23 @@
 # 👋 Hi, I'm Jeffry Steegmans
-
-### 🚀 Coding architect @Xebia 
-
-I'm a coding architect and developer from Belgium, passionate about building scalable, cloud-native solutions. With a strong background in .NET and Azure, I specialize in designing and implementing robust microservices architectures and DevOps pipelines.
-
-Outside of work, I'm also passionate about home automation, especially with Home Assistant — automating lights, sensors, and routines is my idea of fun!
-
-### 🛠️ Tech Stack & Interests
+ 
+## 🚀 Coding architect @Xebia
+ 
+I'm a coding architect and developer from Belgium, currently working with a client on industrial monitoring software that integrates with embedded hardware and PLCs at the bit level. I work primarily with .NET, Blazor Server, and vertical slice architecture, alongside the cloud and DevOps tooling that ties it all together.
+ 
+Outside of work, I'm also into home automation, especially with Home Assistant — automating lights, sensors, and routines is my idea of fun.
+ 
+## 🛠️ Tech Stack & Interests
+ 
 - **Languages & Frameworks:** C#, .NET, ASP.NET Core, Blazor
 - **Cloud & DevOps:** Azure, Docker, GitHub Actions
-- **Architecture:** Microservices, Event-Driven Systems, Domain-Driven Design
+- **Architecture:** Vertical Slice Architecture, Event-Driven Systems (MassTransit/RabbitMQ), Domain-Driven Design
 - **Tools:** Git Extensions, Visual Studio, VS Code, Rider
-- **Hobby Projects:** Home Automation with Home Assistant & EspHome
+- **Hobby Projects:** Home Automation with Home Assistant & ESPHome
 
-### 🌱 Currently Exploring
-- Building resilient distributed systems
-- Advancements in AI and Machine Learning
+## 🌱 Currently Exploring
+ 
+- AI-assisted development workflows (Claude Code, MCP servers)
+- Self-hosted infrastructure & home lab automation (Synology NAS, Raspberry Pi, Cloudflare Zero Trust)
 
 ### 🔗 Let's Connect
 
